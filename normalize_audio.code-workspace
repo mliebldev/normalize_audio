@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"powerquery.client.additionalSymbolsDirectories": [
+			"c:/1_Work/S_scripts/songbook/.vscode/excel-pq-symbols"
+		],
+		"chat.mcp.autostart": "never"
+	}
+}
